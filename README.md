@@ -14,7 +14,7 @@ As creators depend on ad revenue, predicting future earnings is crucial for:
 ## 🛠️ Skills & Tools
 - Python, Pandas, Scikit-learn
 - Exploratory Data Analysis (EDA)
-- Regression Models (Linear, Ridge, Lasso, Random Forest, XGBoost)
+- Regression Models (Linear, Desicion tree,gradient boost, Random Forest, XGBoost)
 - Feature Engineering & Preprocessing
 - Data Visualization
 - Streamlit App Deployment
